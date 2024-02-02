@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiptiSanap
 - 👀 I’m interested in the field of Artificial Intelligence
-- 🌱 I’m currently learning Machine learning , Deep learning and NLP @CDAC_Noida
+- 🌱 I’m currently working as a Machine Learning Engineer
 - 💞️ I’m looking to collaborate on ML and DL techniques
 - 📫 How to reach me www.linkedin.com/in/dipti-sanap-7765a3228
 - email: diptisanap1999@gmail.com
