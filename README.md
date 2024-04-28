@@ -8,9 +8,8 @@
 
 - **Location:** Whitefield, Bengaluru, India
 - **Email:** diptisanap1999@gmail.com
-- **LinkedIn:** [Dipti Sanap](https://www.linkedin.com/in/dipti-sanap-7765a3228/)
-- **GitHub:** [DiptiSanap](https://github.com/DiptiSanap)
-- **Portfolio:**  https://diptisanap.github.io/Portfolio/
+- **LinkedIn:** [Linkdin Profile](https://www.linkedin.com/in/dipti-sanap-7765a3228/)
+- **Portfolio:**  [Portfolio Link](https://diptisanap.github.io/Portfolio/) 
 
 ---
 
