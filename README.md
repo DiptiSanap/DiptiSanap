@@ -6,6 +6,7 @@
 
 👩‍💻 Experienced Machine Learning Engineer with hands-on experience and a robust educational foundation in Artificial Intelligence. My dedication to ongoing learning fuels my drive for innovation in this ever-evolving field with a dynamic and results-oriented approach.
 
+- **Email:** [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:diptisanap1999@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dipti-sanap-7765a3228/)
 - **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-Link-green)](https://diptisanap.github.io/Portfolio/)
 - **GitHub:** [DiptiSanap](https://github.com/DiptiSanap)
