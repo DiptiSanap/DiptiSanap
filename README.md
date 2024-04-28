@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @DiptiSanap
-- 👀 I’m interested in the field of Artificial Intelligence
-- 🌱 I’m currently working as a Machine Learning Engineer
-- 💞️ I’m looking to collaborate on ML and DL techniques
-- 📫 How to reach me www.linkedin.com/in/dipti-sanap-7765a3228
-- email: diptisanap1999@gmail.com
+# Hi there, I'm Dipti Sanap! 👋
 
-<!---
-DiptiSanap/DiptiSanap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 Experienced Machine Learning Engineer | 💻 Python Enthusiast | 📊 Data Analyst
+
+## About Me
+
+👩‍💻 Experienced Machine Learning Engineer with approximately 2 years of hands-on experience and a robust educational foundation in Artificial Intelligence. My dedication to ongoing learning fuels my drive for innovation in this ever-evolving field with a dynamic and results-oriented approach.
+
+- **Location:** Whitefield, Bengaluru, India
+- **Email:** diptisanap1999@gmail.com
+- **LinkedIn:** [Dipti Sanap](https://www.linkedin.com/in/dipti-sanap-7765a3228/)
+- **GitHub:** [DiptiSanap](https://github.com/DiptiSanap)
+- **Portfolio:**  https://diptisanap.github.io/Portfolio/
+
+---
+
+## Skills
+
+🐍 Python | 🚀 Golang | 🛠️ Feature Engineering | 📊 Data Analysis | 🤖 Machine Learning | 🧠 Deep learning | 📝 Natural Language Processing | 👁️ Computer vision | 📚 Large Language Models | 🌐 Flask | 🎨 Django | 🕸️ Web Scraping | 📝 Git | 💾 SQL | 🐳 Containerization | ☁️ AWS | 💡 Generative AI | 🛠️ Microservices
+
+
+
+Let's connect and collaborate on exciting projects! Feel free to reach out.
