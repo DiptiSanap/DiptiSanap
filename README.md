@@ -1,15 +1,14 @@
 # Hi there, I'm Dipti Sanap! 👋
 
-🧠 Experienced Machine Learning Engineer | 💻 Python Enthusiast | 📊 Data Analyst
+🧠 Experienced Machine Learning Engineer | 💻 AI Enthusiast | 📊 Data Analyst
 
 ## About Me
 
 👩‍💻 Experienced Machine Learning Engineer with hands-on experience and a robust educational foundation in Artificial Intelligence. My dedication to ongoing learning fuels my drive for innovation in this ever-evolving field with a dynamic and results-oriented approach.
 
-- **Location:** Whitefield, Bengaluru, India
-- **Email:** diptisanap1999@gmail.com
-- **LinkedIn:** [Linkdin Profile](https://www.linkedin.com/in/dipti-sanap-7765a3228/)
-- **Portfolio:**  [Portfolio Link](https://diptisanap.github.io/Portfolio/) 
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dipti-sanap-7765a3228/)
+- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-Link-green)](https://diptisanap.github.io/Portfolio/)
+- **GitHub:** [DiptiSanap](https://github.com/DiptiSanap)
 
 ---
 
@@ -20,6 +19,9 @@
 ## Profile Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DiptiSanap&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiSanap&layout=compact)
+
 
 
 Let's connect and collaborate on exciting projects! Feel free to reach out.
