@@ -4,7 +4,7 @@
 
 ## About Me
 
-👩‍💻 Experienced Machine Learning Engineer with hands-on experience and a robust educational foundation in Artificial Intelligence. My dedication to ongoing learning fuels my drive for innovation in this ever-evolving field with a dynamic and results-oriented approach.
+👩‍💻 Experienced Python developer & Machine Learning Engineer with hands-on experience and a robust educational foundation in Artificial Intelligence. My dedication to ongoing learning fuels my drive for innovation in this ever-evolving field with a dynamic and results-oriented approach.
 
 **[![Email](https://img.shields.io/badge/Email-red?&logoWidth=70)](mailto:diptisanap1999@gmail.com)**   **[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?&logoWidth=70)](https://www.linkedin.com/in/dipti-sanap-7765a3228/)**   **[![Portfolio](https://img.shields.io/badge/Portfolio-green?&logoWidth=70)](https://diptisanap.github.io/Portfolio/)**
 
