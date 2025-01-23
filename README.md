@@ -1,6 +1,6 @@
 # Hi there, I'm Dipti Sanap! 👋
 
-🧠 Experienced Machine Learning Engineer | 💻 AI Enthusiast | 📊 Data Analyst
+🧠 Experienced Python Developer | 💻 AI Enthusiast | 
 
 ## About Me
 
